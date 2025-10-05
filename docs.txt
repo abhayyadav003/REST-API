@@ -1,0 +1,5 @@
+django | djangorestframework > API > frontend
+json > javascript object notation
+
+
+"{}" > : parsing
